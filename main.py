@@ -8,7 +8,7 @@ from aiogram.dispatcher.filters import Command
 from aiogram.dispatcher import FSMContext
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils import executor
-from search import Exercise
+from data_class import Exercise
 import time
 
 API_TOKEN = '6429432065:AAF_x119p7JPvpEK1hsE6j1vp2RKPALkllY'
